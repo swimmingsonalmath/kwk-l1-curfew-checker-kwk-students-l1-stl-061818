@@ -1,8 +1,8 @@
 if 4 < 5 
  # puts "four is less than five."
-end 
 
-elseif 7 > 5 
+
+elsif 7 > 5 
   puts " sevan is greater than five"
 else
   puts "seven is less than five"
